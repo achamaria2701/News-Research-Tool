@@ -1,1 +1,1 @@
-## News research tool for financeial analyst
+## News research tool for financial analyst
